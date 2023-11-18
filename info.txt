@@ -1,0 +1,10 @@
+usd - 0.012
+euro - 0.011
+jyp - 1.81
+British Pound - 0.0096
+swiss franc - 0.011 - euro
+canadian dollar - 0.017
+austr/NZ dollar - 0.018
+ZAR (South African Rand) - 0.22
+
+d5041a6b42719ce7e43ae6cb56c7b313
